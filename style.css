@@ -1,12 +1,12 @@
-:root{
+/* :root{
     --primary-color:#edf2fc;
     --secondary-color:#212121;
-}
-.dark-theme{
+} */
+/* .dark-theme{
     --primary-color:#000106;
     --secondary-color:#fff;
-}
-a{
+} */
+/* a{
     background-color: var(--primary-color);
     text-decoration:none;
 }
@@ -16,4 +16,4 @@ a{
 }
 #icon{
     cursor: pointer;
-}
+} */
